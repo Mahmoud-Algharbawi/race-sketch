@@ -52,9 +52,9 @@ The Sketch program allows the user to control a turtle on the screen using arrow
    ```
 3. Use the following keys to control the turtle:
    - **Up Arrow:** Move forward.
-   - **Down Arrow:** Move backward by 10 degrees.
+   - **Down Arrow:** Move backward.
    - **Left Arrow:** Turn counterclockwise by 10 degrees.
-   - **Right Arrow:** Turn clockwise.
+   - **Right Arrow:** Turn clockwise by 10 degrees.
    - **C Key:** Reset the canvas.
 
 ---
